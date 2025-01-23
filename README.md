@@ -1,4 +1,7 @@
 # Algoritmizacia
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjUxYzV1bnk4Z3VkeDE5am05eGJqams0ZXlhN3psdXFiN2w2YmlydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kiWlpxD6hXmvTL8dio/giphy.gif" width="700" height="700"/>
+</div>
 <div id="badges" align="center">
   <a href="https://docs.google.com/document/d/1kr0yvcIpEhERbTK7WCawB0UwRyL2dGWvb8OHcMD0m_4/edit?usp=sharing">
     <img src="https://img.shields.io/badge/Конспект-black?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
@@ -19,6 +22,21 @@
     <img src="https://img.shields.io/badge/Конференция-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
   </a>
   <a href="https://github.com/Vombatullah/Kenzegulov.K.I.Algoritmisation/blob/main/%D0%B4%D0%B7%20%D1%81%D0%B0%D0%B9%D1%82.html">
+    <img src="https://img.shields.io/badge/Дз сайт-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Дз сайт-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Дз сайт-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Дз сайт-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Дз сайт-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
+  </a>
+  <a href="">
     <img src="https://img.shields.io/badge/Дз сайт-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
   </a>
 </div >
