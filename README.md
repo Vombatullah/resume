@@ -24,20 +24,5 @@
   <a href="https://github.com/Vombatullah/Kenzegulov.K.I.Algoritmisation/blob/main/%D0%B4%D0%B7%20%D1%81%D0%B0%D0%B9%D1%82.html">
     <img src="https://img.shields.io/badge/Дз сайт-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Дз сайт-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Дз сайт-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Дз сайт-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Дз сайт-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Дз сайт-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
-  </a>
 </div >
-<div align="center">
+
