@@ -9,5 +9,17 @@
   <a href="https://docs.google.com/presentation/d/1L0zmQdmU2Aq4rQFDoTgwVLk-ENXvyO4d3xW58xFLSbA/edit?usp=sharing">
     <img src="https://img.shields.io/badge/Тела вращения вокруг нас-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
   </a>
+  <a href="https://drive.google.com/drive/u/1/folders/1uuVZFcRkz0OS8FASy7mhkX8yybSoo1KK">
+    <img src="https://img.shields.io/badge/Выстовачные залы-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
+  </a>
+  <a href="https://colab.research.google.com/drive/1osX4mMvA68sZ8Pqq0dWUzl5mDem5nKnA?usp=sharing(%D0%BA%D0%BE%D0%B4">
+    <img src="https://img.shields.io/badge/Второй код колаб-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
+  </a>
+  <a href="https://docs.google.com/document/d/1L9O8yxUk0eSWs62oPCu-k59zeNGgXcwFCFGbpUgfCfI/edit?usp=sharing(%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F)">
+    <img src="https://img.shields.io/badge/Конференция-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
+  </a>
+  <a href="https://github.com/Vombatullah/Kenzegulov.K.I.Algoritmisation/blob/main/%D0%B4%D0%B7%20%D1%81%D0%B0%D0%B9%D1%82.html">
+    <img src="https://img.shields.io/badge/Дз сайт-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
+  </a>
 </div >
 <div align="center">
